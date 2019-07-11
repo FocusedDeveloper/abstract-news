@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Abstract News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">d92f41852eb99ec25074c7d2cb1bf601</string>
+    <string name="API_Key">d92f41852eb99ec25074c7d2cb1bf601</string>
+    <string name="podcast_key">PodcastStringKey</string>
+    <string name="uri_key">URI_String_Key</string>
+    <string name="content_authority">org.abstractnews.podcastplayer.app</string>
+    <string name="sync_account_type">abstractnews.org</string>
+    <string name="broadcast_extra_key">Broadcast Key</string>
+    <string name="extra_prepared">prepared</string>
+    <string name="seek_extra_key">seekbar_key</string>
+    <string name="seek_bar_sent">seek_sent</string>
+    <string name="update_key">updateUI</string>
+    <string name="prepped_key">prepped</string>
+    <string name="ended_key">podcast_over</string>
+    <string name="counter_key">counter</string>
+    <string name="play_pause">play_pause_key</string>
+    <string name="play">play_button_pressed</string>
+    <string name="play_btn_string">Play Button</string>
+    <string name="pause">pause</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="play_description">The Play Button</string>
+    <string name="pause_description">The Pause Button</string>
+    <string name="podcast_length">Podcast Length</string>
+    <string name="time_elapsed">Time elapsed</string>
+    <string name="podcast_title">Podcast Title</string>
+    <string name="toggle_play_and_pause">Toggle Play and Pause</string>
+    <string name="podcast_title_widget">Podcast Title</string>
+    <string name="abstract_news">Abstract News</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7452928763239166/1657153738</string>
+    <string name="release_date">release date</string>
+    <string name="imageTransitison">imageTransistion</string>
+    <string name="action_share">share button</string>
+    <string name="abstractURL">www.abstractnews.org</string>
+    <string name="AbstractSendTitle">Abstract News!</string>
+    <string name="media_error_not_valid">"MEDIA ERROR NOT VALID FOR PROGRESSIVE PLAYBACK "</string>
+    <string name="media_server_died">"MEDIA SEVER DIED "</string>
+    <string name="unknown_media_error">"MEDIA ERROR UNKNOWN "</string>
+    <string name="no_data">No Data Connection</string>
+</resources>
