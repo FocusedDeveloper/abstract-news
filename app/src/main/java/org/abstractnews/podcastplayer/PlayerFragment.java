@@ -117,7 +117,7 @@ public class PlayerFragment extends Fragment implements LoaderManager.LoaderCall
     private String trackURL;
     private String mParam2;
 
-    private static final String APIKEY = "d92f41852eb99ec25074c7d2cb1bf601";
+    private static final String APIKEY = "";
 
     private OnFragmentInteractionListener mListener;
     private boolean broadcastRegistered;
